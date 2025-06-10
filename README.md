@@ -23,7 +23,7 @@ _(Link will work after you set up GitHub Pages — instructions below.)_
 
 ## 📸 Preview
 
-##Possible Updates
+## Possible Updates
 
 # ios-style-calculator
 A calculator styled like Apple's iOS calculator using HTML, CSS, and JavaScript.
