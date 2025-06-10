@@ -4,7 +4,6 @@ A simple calculator built using **HTML**, **CSS**, and **JavaScript**, designed 
 
 ## 🚀 Live Demo
 
-[Click here to try it out](https://mantavyas.github.io/ios-style-calculator)
 
 _(Link will work after you set up GitHub Pages — instructions below.)_
 
@@ -25,5 +24,3 @@ _(Link will work after you set up GitHub Pages — instructions below.)_
 
 ## Possible Updates
 
-# ios-style-calculator
-A calculator styled like Apple's iOS calculator using HTML, CSS, and JavaScript.
